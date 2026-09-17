@@ -21,3 +21,6 @@ This project provides a comprehensive, end-to-end performance review of retail o
 
 ## Author
 **Muhammad Abdullah**  
+
+## Dashboard Screenshot
+![App Screenshot](dashboard/dashboard_screenshot.png)
